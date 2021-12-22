@@ -14,4 +14,4 @@ We are working to help Martha who works at an investment bank to better understa
 ### 4) Visualizing Cryptocurrency Results
 
 ## Conclusion
-Data in the real world is much like that we encountered with the cryptocurrencies, not always ready for analysis like Unsupervised Learning.
+Data in the real world is much like that we encountered with the cryptocurrencies, not always ready for analysis like Unsupervised Learning.  That is why we needed to take some time up cleaning and shaping the data so we could run through the unsupervised learning models or other models/analysis.
